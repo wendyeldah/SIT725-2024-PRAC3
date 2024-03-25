@@ -1,0 +1,23 @@
+{
+  "name": "sit725-2024-prac3",
+  "version": "1.0.0",
+  "description": "practical 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendyeldah/SIT725-2024-PRAC3.git"
+  },
+  "author": "wendy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wendyeldah/SIT725-2024-PRAC3/issues"
+  },
+  "homepage": "https://github.com/wendyeldah/SIT725-2024-PRAC3#readme",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
+}
